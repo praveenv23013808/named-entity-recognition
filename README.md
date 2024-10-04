@@ -8,6 +8,9 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 This project aims to implement an LSTM-based model for named entity recognition (NER) in text, targeting the identification of entities like persons,
 organizations, and locations. By leveraging deep learning techniques, we seek to develop a robust system capable of accurately labeling named 
 entities in unstructured text data
+
+![Screenshot 2024-10-04 111632](https://github.com/user-attachments/assets/7cf50320-9e85-4a60-949d-b92c079a68ba)
+
 ## DESIGN STEPS
 
 ### STEP 1: Import the necessary packages
